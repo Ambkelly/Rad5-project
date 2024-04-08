@@ -540,6 +540,9 @@ gap: 20px
     .Copyright p{
         font-size: 0.9rem;
     }
+    .logo img{
+        width: 50%;
+    }
     .col-sm-1{
         width: 8.33%;
    }
@@ -611,6 +614,25 @@ gap: 20px
     .We_connect_content h1{
         /* border: 1px solid red; */
         font-size: 1.5rem;
+    }
+    .What_Our_Clients_Say h1{
+        font-size: 1.5rem;
+        /* border: 1px solid red; */
+    }
+    .Our_Recent_Blog_Post h1{
+        font-size: 1.5rem;
+        /* border: 1px solid red; */
+    }
+    #Our_Services{
+        font-size: 1.5rem;
+        /* border: 1px solid red; */
+    }
+    .Venture_Building h1{
+        font-size: 1.5rem;
+        /* border: 1px solid red; */
+    }
+    .logo img{
+        width: 50%;
     }
    .col-1{
         width: 8.33%;
