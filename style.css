@@ -608,6 +608,10 @@ gap: 20px
     .Copyright p{
         font-size: 0.9rem;
     }
+    .We_connect_content h1{
+        /* border: 1px solid red; */
+        font-size: 1.5rem;
+    }
    .col-1{
         width: 8.33%;
    }
